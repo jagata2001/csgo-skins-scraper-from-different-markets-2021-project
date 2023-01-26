@@ -4,3 +4,5 @@ Collects csgo skins price from different websites such as "market.csgo.com", "dm
 Currently this project is not functioning properly cause some of the code is outdated. Some websites have changed, but i think that there is still some segments of code which may be usable for other users.
 
 Database: postgresql 12.13 version
+
+![image](https://user-images.githubusercontent.com/15563304/214969816-2fe55238-46fc-42f8-a05a-1f7f07097090.png)
